@@ -1,0 +1,6 @@
+The objective of this project is to create an immersive 3D simulation of an asteroid field in space. The 
+project requires developing an interactive environment using WebGL through the Three.js library. It 
+integrates several advanced graphics techniques such as custom GLSL shaders for realistic lighting 
+effects, dynamic object generation (asteroids and meteors), interactive camera controls, and collision 
+avoidance mechanisms. Additionally, it features a spaceship model with keyboard-controlled 
+movement and interactive texture switching.  
